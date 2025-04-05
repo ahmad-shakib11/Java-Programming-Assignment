@@ -10,7 +10,7 @@
 5. `CountNotes.java` - Notes count
 6. `NumbersPattern.java` - Find pattern of numbers
 7.  `BabyHeightAnalyzer.java` - Find out the 2 lowest height of babies
-8.  `TextAnalyzer.java` - Count number of words, number of characters without spaces, number of vowels and consonant
+8.  `TextAnalyzer.java` - Analyze the text
 9.  `BinaryChecker.java` - Find binary or not
 10.  `PasswordGenerator.java` - Generate random password
 11.  `RemoveVowels.java` - Remove Vowels from a String
